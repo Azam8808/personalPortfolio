@@ -59,8 +59,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | MOHAMMAD AJRUDDIN ALI";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Portfolio | MOHD AZAM";
+            $("#favicon").attr("href", "");
         }
         else {
             document.title = "Come Back To Portfolio";
