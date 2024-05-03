@@ -1,12 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "WeatherApp",
+    "desc": "Developed WeatherApp utilizing HTML, CSS, and JavaScript,integrating APIs for real-time weather updates.Features include current conditions, hourly/daily forecasts and interactive maps.",
+    "image": "weather",
+    "category": "website",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://indianweather.kesug.com/",
+      "code": "https://github.com/Azam8808/Weather-app"
     }
   },
   {
