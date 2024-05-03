@@ -1,7 +1,7 @@
 [
   {
     "name": "WeatherApp",
-    "desc": "Developed WeatherApp utilizing HTML, CSS, and JavaScript,integrating APIs for real-time weather updates.Features include current conditions, hourly/daily forecasts and interactive maps.",
+    "desc": "Developed WeatherApp utilizing HTML, CSS, and JavaScript,integrating APIs for real-time weather updates.",
     "image": "weather",
     "category": "website",
     "links": {
