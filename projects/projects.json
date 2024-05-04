@@ -22,7 +22,7 @@
   
   {
     "name": "FoodHub",
-    "desc": "Developed a web application for searching food recipes by name using HTML,CSS,ReactJs,React-router,MealDB API to fetch and displaydetailed recipes.",
+    "desc": "Searching food recipes by name using HTML,CSS,ReactJs,React-router,MealDB API to fetch and displaydetailed recipes.",
     "image": "foodhub",
     "category": "basicweb",
     "links": {
